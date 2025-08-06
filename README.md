@@ -6,14 +6,30 @@ Ip to location tracker is a tool designed to get target ip to location by google
 - Termux
 
 # Installation
-pkg update && pkg upgrade
+
+💥 Installation 💥
+```
+
+pkg update && pkg upgrade -y
+
+apt update && apt upgrade -y
+
 pkg install python
-pkg install git
-pkg install python git -y
+
+pkg install git -y
+
+pip install fake_useragent
+
 pip install requests
-git clone 
 
+pip install colorama
 
+git clone https://github.com/Redeye00007/smsbombing
+
+cd smsbombing
+
+python t_bomb.py
+```
 
 
 
