@@ -10,25 +10,17 @@ Ip to location tracker is a tool designed to get target ip to location by google
 💥 Installation 💥
 ```
 
-pkg update && pkg upgrade -y
-
 apt update && apt upgrade -y
 
 pkg install python
-
-pkg install git -y
-
-pip install fake_useragent
-
+pkg install git
 pip install requests
-
-pip install colorama
 
 git clone https://github.com/Redeye00007/Ip_location_tracker
 
 cd Ip_location_tracker
 
-python t_bomb.py
+python ip_location.py
 
 ```
 
