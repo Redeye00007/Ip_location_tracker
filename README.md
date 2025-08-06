@@ -24,13 +24,13 @@ pip install requests
 
 pip install colorama
 
-git clone https://github.com/Redeye00007/smsbombing
+git clone https://github.com/Redeye00007/Ip_location_tracker
 
-cd smsbombing
+cd Ip_location_tracker
 
 python t_bomb.py
-```
 
+```
 
 
 
